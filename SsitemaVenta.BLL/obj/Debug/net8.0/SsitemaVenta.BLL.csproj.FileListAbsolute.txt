@@ -1,0 +1,17 @@
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SsitemaVenta.BLL.deps.json
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SsitemaVenta.BLL.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SsitemaVenta.BLL.pdb
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.AssemblyInfo.cs
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\refint\SsitemaVenta.BLL.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.pdb
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\ref\SsitemaVenta.BLL.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVenta\SsitemaVenta.BLL\obj\Debug\net8.0\SsitemaV.9F4D2715.Up2Date
